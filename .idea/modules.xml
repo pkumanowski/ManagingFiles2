@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/11_03/ApacheCommons/ApacheCommons.iml" filepath="$PROJECT_DIR$/11_03/ApacheCommons/ApacheCommons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_01/CopyFile/CopyFile.iml" filepath="$PROJECT_DIR$/11_01/CopyFile/CopyFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_04/Internet/Internet.iml" filepath="$PROJECT_DIR$/11_04/Internet/Internet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_02/NewIO/NewIO.iml" filepath="$PROJECT_DIR$/11_02/NewIO/NewIO.iml" />
+    </modules>
+  </component>
+</project>
